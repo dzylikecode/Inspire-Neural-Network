@@ -1,13 +1,9 @@
-# docsify-template
+# Neural-network
 
-index.html:
+A very simple neural network.
 
-- [ ] modify the title
-- [ ] modify the description
-- [ ] modify the keyword
-- [ ] modify the repo link
-- [ ] modify the variable `url` in the script tag
+Here's the video explaining how I did it: https://youtu.be/Zrrnqd0rCXg
 
-## 可读性
+## feature
 
-不必打包, 压缩, 方便自己阅读和修改
+- online demo: https://dzylikecode.github.io/Inspire-Neural-network/#/
