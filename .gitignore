@@ -1,6 +1,7 @@
+.vscode/
+temp
 bin/
 .vscode/
 jsconfig.json
 *.d.ts
-temp/
 test/
