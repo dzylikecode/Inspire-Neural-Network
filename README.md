@@ -2,7 +2,10 @@
 
 A very simple neural network.
 
-Here's the video explaining how I did it: https://youtu.be/Zrrnqd0rCXg
+inspired by
+
+- repo: [Neural-network](https://github.com/Kofybrek/Neural-network)
+- video: [Training my First NEURAL NETWORK in C++ and SFML - AI Tutorial](https://youtu.be/Zrrnqd0rCXg)
 
 ## feature
 
