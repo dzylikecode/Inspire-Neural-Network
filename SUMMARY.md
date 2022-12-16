@@ -1,3 +1,2 @@
 - [:boat:](/README.md)
-- [主逻辑](code/README.md)
-- [神经网络](code/neuron/README.md)
+- <a href="/web/index.html" target="_blank">效果</a>
