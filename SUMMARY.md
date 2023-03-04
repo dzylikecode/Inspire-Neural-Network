@@ -1,2 +1,2 @@
 - [:boat:](/README.md)
-- <a href="/web/index.html" target="_blank">效果</a>
+- <a class="Pages" href="/web/index.html" target="_blank">效果</a>
