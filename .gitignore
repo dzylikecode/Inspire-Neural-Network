@@ -5,3 +5,5 @@ bin/
 jsconfig.json
 *.d.ts
 test/
+build/
+.xmake/
